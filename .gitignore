@@ -1,0 +1,26 @@
+# Python stuff
+__pycache__/
+.ipynb_checkpoints
+profile_default/
+.venv/
+
+# VSCode
+.vscode/
+
+# MacOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Model files
+*.pt
+
+# CrowdSense Specific Ignores
+models/
+exports/
